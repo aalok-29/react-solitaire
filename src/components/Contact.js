@@ -7,6 +7,7 @@ const Contact = () => {
         <Navbar />
       <h1>My name is Aalok</h1>
       <h2>You can call me anytime</h2>
+    <h2><3</h2>
     </div>
   )
 }
