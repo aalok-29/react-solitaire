@@ -12,6 +12,7 @@ const Home = () => {
       <Card img='https://cdn.pixabay.com/photo/2017/09/25/11/55/cyberspace-2784907_1280.jpg' title='This is a card' desc='lorem' />
       <Card img='https://cdn.pixabay.com/photo/2016/08/03/14/24/roses-1566792_1280.jpg' title='This is a card' desc='lorem ' />
     <Card img='https://cdn.pixabay.com/photo/2016/08/03/14/24/roses-1566792_1280.jpg' title='This is a card' desc='lorem ' />
+    <Card img='https://cdn.pixabay.com/photo/2016/08/03/14/24/roses-1566792_1280.jpg' title='This is a card' desc='lorem ' />
     </div>
   )
 }
