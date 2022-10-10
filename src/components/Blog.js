@@ -14,7 +14,8 @@ const myList = [{title:'Blog1', Desc:'Blog1 description Lorem ipsum dolor sit am
 {title:'Blog3', Desc:'Blog3 description Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum laudantium voluptate eligendi fugit, vero consectetur dicta pariatur numquam doloremque assumenda dolor blanditiis vitae fuga quae earum, consequuntur sint unde rerum.', Img:Image3},
 {title:'Blog3', Desc:'Blog3 description Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum laudantium voluptate eligendi fugit, vero consectetur dicta pariatur numquam doloremque assumenda dolor blanditiis vitae fuga quae earum, consequuntur sint unde rerum.', Img:Image3},
 {title:'Blog3', Desc:'Blog3 description Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum laudantium voluptate eligendi fugit, vero consectetur dicta pariatur numquam doloremque assumenda dolor blanditiis vitae fuga quae earum, consequuntur sint unde rerum.', Img:Image3},
-{title:'Blog3', Desc:'Blog3 description Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum laudantium voluptate eligendi fugit, vero consectetur dicta pariatur numquam doloremque assumenda dolor blanditiis vitae fuga quae earum, consequuntur sint unde rerum.', Img:Image3}];
+{title:'Blog3', Desc:'Blog3 description Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum laudantium voluptate eligendi fugit, vero consectetur dicta pariatur numquam doloremque assumenda dolor blanditiis vitae fuga quae earum, consequuntur sint unde rerum.', Img:Image3},
+{title:'Blog2', Desc:'Blog2 description Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum laudantium voluptate eligendi fugit, vero consectetur dicta pariatur numquam doloremque assumenda dolor blanditiis vitae fuga quae earum, consequuntur sint unde rerum.', Img:Image2}];
   return (
     <div>
         <Navbar />
