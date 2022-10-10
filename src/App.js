@@ -24,6 +24,7 @@ function App() {
     <Route path='/Contact' element={<Contact/>}/>
     <Route path='/Blog' element={<Blog/>}/>
     <Route path='/Use' element={<Use/>}/>
+     <Route path='/Link' element={<Link/>}/>
    
     </Routes>
     </Router>
